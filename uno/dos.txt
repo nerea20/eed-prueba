@@ -1,1 +1,2 @@
 este es el segundo documento que yo creo para git
+y le he cambiado algo después del primer commmit
